@@ -1,0 +1,7 @@
+{
+    "help": "This is the function you just used!",
+    "play": "You can place your marker on the board using '/play <position>'. Position can range from 1-9.",
+    "see": "You can look at the game",
+    "myscore": "To see your score and your place in the scoreboard",
+    "top10": "Gives you top 10 scores in the game"
+}
